@@ -1,0 +1,12 @@
+{
+  "name": "clothes-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch scss:src/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
